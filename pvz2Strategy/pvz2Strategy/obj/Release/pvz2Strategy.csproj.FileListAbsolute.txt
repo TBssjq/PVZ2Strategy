@@ -1,0 +1,13 @@
+Z:\pvz2Strategy\pvz2Strategy\bin\Release\pvz2Strategy.exe.config
+Z:\pvz2Strategy\pvz2Strategy\bin\Release\pvz2Strategy.exe.manifest
+Z:\pvz2Strategy\pvz2Strategy\bin\Release\pvz2Strategy.application
+Z:\pvz2Strategy\pvz2Strategy\bin\Release\pvz2Strategy.exe
+Z:\pvz2Strategy\pvz2Strategy\bin\Release\pvz2Strategy.pdb
+Z:\pvz2Strategy\pvz2Strategy\obj\Release\pvz2Strategy.Form1.resources
+Z:\pvz2Strategy\pvz2Strategy\obj\Release\pvz2Strategy.Properties.Resources.resources
+Z:\pvz2Strategy\pvz2Strategy\obj\Release\pvz2Strategy.csproj.GenerateResource.cache
+Z:\pvz2Strategy\pvz2Strategy\obj\Release\pvz2Strategy.csproj.CoreCompileInputs.cache
+Z:\pvz2Strategy\pvz2Strategy\obj\Release\pvz2Strategy.exe.manifest
+Z:\pvz2Strategy\pvz2Strategy\obj\Release\pvz2Strategy.application
+Z:\pvz2Strategy\pvz2Strategy\obj\Release\pvz2Strategy.exe
+Z:\pvz2Strategy\pvz2Strategy\obj\Release\pvz2Strategy.pdb

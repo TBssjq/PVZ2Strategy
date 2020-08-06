@@ -1,0 +1,10 @@
+Z:\pvz2Strategy\pvz2Strategy\bin\Debug\pvz2Strategy.exe.config
+Z:\pvz2Strategy\pvz2Strategy\bin\Debug\pvz2Strategy.exe
+Z:\pvz2Strategy\pvz2Strategy\bin\Debug\pvz2Strategy.pdb
+Z:\pvz2Strategy\pvz2Strategy\obj\Debug\pvz2Strategy.csprojAssemblyReference.cache
+Z:\pvz2Strategy\pvz2Strategy\obj\Debug\pvz2Strategy.Form1.resources
+Z:\pvz2Strategy\pvz2Strategy\obj\Debug\pvz2Strategy.Properties.Resources.resources
+Z:\pvz2Strategy\pvz2Strategy\obj\Debug\pvz2Strategy.csproj.GenerateResource.cache
+Z:\pvz2Strategy\pvz2Strategy\obj\Debug\pvz2Strategy.csproj.CoreCompileInputs.cache
+Z:\pvz2Strategy\pvz2Strategy\obj\Debug\pvz2Strategy.exe
+Z:\pvz2Strategy\pvz2Strategy\obj\Debug\pvz2Strategy.pdb
